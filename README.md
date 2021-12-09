@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Stu, and I'm currently studying on the Nology software developer course, learning (among other things):
+
+  HTML
+  CSS (Sass)
+  JavaScript
+  React
+  
+I've completed a few projects so far, which you can see below!
+
 <!--
 **SPares393/SPares393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
