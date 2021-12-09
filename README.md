@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I'm Stu, and I'm currently studying on the Nology software developer course, learning (among other things):
-
-  HTML
-  CSS (Sass)
-  JavaScript
-  React
+I'm Stu, and I'm currently studying on the Nology software developer course, learning (among other things) HTML, CSS/Sass, JavaScript, and React.
   
 I've completed a few projects so far, which you can see below!
 
